@@ -1,4 +1,3 @@
-// calculator.test.js
 const { add, subtract } = require('./calculator');
 
 test('adds 1 + 2 to equal 3', () => {
